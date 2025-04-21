@@ -11,7 +11,7 @@ to run in devcontainer:
 
 - **GUI Version**: This setup is for the GUI version of Godot, not the headless version.
 - **Godot with .NET**: The intention is to integrate this as a version of Godot with .NET support.
-- **Hardware Compatibility**: Tested on an AMD iGPU 8600G. Compatibility with other GPUs is not claimed. It will probably work with recent Ryzen iGPUs
+- **Hardware Compatibility**: Tested on an AMD iGPU 8600G. No idea about other hardware combinations. It will probably work with recent Ryzen iGPUs
 - **Testing**: This setup has not been extensively tested. Use at your own risk.
 - **VScode integration with Godot**: not tested yet
 - **Linux**: This setup is for Linux only ( am running Kubuntu 24.04 and KDENeon), I have no idea if it will run under WSL2 ( maybe someday I'll test)
