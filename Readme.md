@@ -14,6 +14,7 @@ to run in devcontainer:
 - **Hardware Compatibility**: Tested on an AMD iGPU 8600G. Compatibility with other GPUs is not claimed. It will probably work with recent Ryzen iGPUs
 - **Testing**: This setup has not been extensively tested. Use at your own risk.
 - **VScode integration with Godot**: not tested yet
+- **Linux**: This setup is for Linux only ( am running Kubuntu 24.04 and KDENeon), I have no idea if it will run under WSL2 ( maybe someday I'll test)
 
 ## Notes
 
